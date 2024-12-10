@@ -63,3 +63,6 @@ a[href="/WebStudio"]{
 a[href="info@example.com"]{
     color: var(--gray);
 }
+ul{
+    list-style: none;
+}
